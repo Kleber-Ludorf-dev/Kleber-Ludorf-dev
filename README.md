@@ -5,7 +5,7 @@
 
 ## 📌 Sobre mim:
 
-Me chamo Kléber Ludorf Chagas da Luz, sou de Curitiba - PR e atualmente estou no 4º período de Ciência da Computação. Desde cedo sou apaixonado por tecnologia, 
+Me chamo Kléber Ludorf Chagas da Luz, sou de Curitiba - PR e atualmente estou no 5º período de Ciência da Computação. Desde cedo sou apaixonado por tecnologia, 
 especialmente por tudo que envolve o mundo digital e os jogos online — foi essa curiosidade que me trouxe para a área da computação.
 Procuro uma oportunidade de estágio onde eu possa aprender com profissionais experientes, adquirir prática de mercado e evoluir como desenvolvedor e como pessoa. 
 
