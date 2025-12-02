@@ -47,8 +47,7 @@ Fique à vontade para acompanhar meu progresso! 🚀
 - 🚀 2023 : Início na faculdade de Ciência da Computação  
 - 🖥️ 2024: Primeiro contato com C e lógica de programação  
 - 🌐 2024: Comecei a estudar Web com HTML, CSS, JS  
-- 🔄 2025: Comecei a estudar Java
-- 📚 2026: Comecei a estudar python e C#, pretendo fazer projetos práticos e buscar um estágio
+- 🔄 2025: Comecei a estudar Java, python e C#, pretendo fazer projetos práticos e buscar um estágio
 
 ---
 
