@@ -5,7 +5,7 @@
 
 ## 📌 Sobre mim:
 
-Me chamo Kléber Ludorf Chagas da Luz, sou de Curitiba - PR e atualmente estou no 5º período de Ciência da Computação. Desde cedo sou apaixonado por tecnologia, 
+Me chamo Kléber Ludorf Chagas da Luz, sou de Curitiba - PR e atualmente estou no 6º período de Ciência da Computação. Desde cedo sou apaixonado por tecnologia, 
 especialmente por tudo que envolve o mundo digital e os jogos online — foi essa curiosidade que me trouxe para a área da computação.
 Procuro uma oportunidade de estágio onde eu possa aprender com profissionais experientes, adquirir prática de mercado e evoluir como desenvolvedor e como pessoa. 
 
@@ -45,9 +45,10 @@ Fique à vontade para acompanhar meu progresso! 🚀
 ## 🛤 Minha Jornada
 
 - 🚀 2023 : Início na faculdade de Ciência da Computação  
-- 🖥️ 2024: Primeiro contato com C e lógica de programação  
-- 🌐 2024: Comecei a estudar Web com HTML, CSS, JS  
-- 🔄 2025: Comecei a estudar Java, python e C#, pretendo fazer projetos práticos e buscar um estágio
+- 🖥️ 2024¹: Primeiro contato com C e lógica de programação  
+- 🌐 2024²: Comecei a estudar Web com HTML, CSS, JS  
+- 🔄 2025¹: Comecei a estudar Java
+- 🤖 2025²: Comecei a estudar python e C#, pretendo fazer projetos práticos e buscar um estágio
 
 ---
 
