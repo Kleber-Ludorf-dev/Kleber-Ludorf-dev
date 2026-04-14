@@ -48,7 +48,8 @@ Fique à vontade para acompanhar meu progresso! 🚀
 - 🖥️ 2024¹: Primeiro contato com C e lógica de programação  
 - 🌐 2024²: Comecei a estudar Web com HTML, CSS, JS  
 - 🔄 2025¹: Comecei a estudar Java
-- 🤖 2025²: Comecei a estudar python e C#, pretendo fazer projetos práticos e buscar um estágio
+- 🤖 2025²: Comecei a estudar C#
+- 👨🏻‍💻 2026¹: Comecei a estudar Python
 
 ---
 
