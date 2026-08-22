@@ -50,7 +50,7 @@ Fique à vontade para acompanhar meu progresso! 🚀
 - 🔄 2025¹: Comecei a estudar Java
 - 🤖 2025²: Comecei a estudar C#
 - 👨🏻‍💻 2026¹: Comecei a estudar Python
-
+- 💾 2026²: Padrões de Projetos e aplicativos Mobile
 ---
 
 ## 📊 Estatísticas do GitHub
